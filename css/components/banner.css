@@ -1,0 +1,14 @@
+.banner {
+  background-image: url("../../images/background.jpg");
+  background-size: cover;
+  color: #fff;
+  padding: 150px 0;
+}
+
+.banner h1, .banner p {
+  margin: 0;
+}
+
+.banner .btn-green {
+  margin-top: 12px;
+}
